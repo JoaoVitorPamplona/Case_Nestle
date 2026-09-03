@@ -40,6 +40,7 @@ jupyter notebook Case_cafe_nestle.ipynb
 - scikit-learn
 - statsmodels
 - prophet
+- jupyter
 
 ## Autor
 
