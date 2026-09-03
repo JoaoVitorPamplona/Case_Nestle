@@ -42,7 +42,6 @@ O dataset é baixado automaticamente do Kaggle na primeira célula.
 - scikit-learn
 - statsmodels
 - prophet
-- kagglehub
 
 ## Autor
 
