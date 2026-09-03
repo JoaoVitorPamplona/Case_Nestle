@@ -33,8 +33,6 @@ pip install -r requirements.txt
 jupyter notebook Case_cafe_nestle.ipynb
 ```
 
-O dataset é baixado automaticamente do Kaggle na primeira célula.
-
 ## Dependências
 
 - Python 3.10+
