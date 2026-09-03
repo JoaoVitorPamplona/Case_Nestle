@@ -1,6 +1,6 @@
 # Previsão de demanda semanal por tipo de café
 
-Case técnico para Cientista de Dados Sênior — previsão de demanda em máquinas de café de autoatendimento.
+Case técnico para Cientista de Dados Sênior. Previsão de demanda em máquinas de café de autoatendimento.
 
 ## O problema
 
