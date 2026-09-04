@@ -13,9 +13,9 @@ Modelo linear misto (LMM) que aprende coeficientes comuns a todos os cafés e aj
 ## Estrutura
 
 ```
-├── Case_cafe_nestle.ipynb   # notebook com a solução completa
-├── apresentacao.pdf         # apresentação do case
-├── requirements.txt         # dependências
+├── Case_cafe_nestle.ipynb          # notebook com a solução completa
+├── Apresentação_Nestle.pdf         # apresentação do case
+├── requirements.txt                # dependências
 └── README.md
 ```
 
