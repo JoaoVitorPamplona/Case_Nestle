@@ -4,5 +4,4 @@ matplotlib
 scikit-learn
 statsmodels
 prophet
-kagglehub
 jupyter
